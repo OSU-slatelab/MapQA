@@ -12,7 +12,7 @@ MapQA consists of three subsets, acquired via different approaches as listed bel
 
 # Data Content and Format
 
-Please download the data from [here](https://drive.google.com/drive/folders/1VbxoP2je1hUrL8BAStgseKNvejqkM_xj?usp=sharing).
+Please download the data from [here](https://buckeyemailosu-my.sharepoint.com/:f:/g/personal/chang_1692_buckeyemail_osu_edu/EvJWDbG5_5ZMlA1mJVtZceEBqO1TiZaUUuFxKXeIQYQgig?e=pyV1Ad).
 
 Each subset contains the following files or folders:
 
